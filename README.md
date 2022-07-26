@@ -1,6 +1,5 @@
-# 
-此程序用来滑动窗口查找自定义序列的位置
-1.你可以使用--help来查看程序提供的输入文件及参数，例如窗口大小及步长
-2.你要查看的序列通过第21行的filterlist来自定义
-3.输出内容为滑动次数和窗口序列，以此定位序列位置
-4.可以通过example.txt来试运行。
+# This program is used to slide the window to find the position of the custom sequence  
+1.You can use '--help' to view the input files and parameters provided by the program, such as window size and step size  
+2.The sequence you want to view is customized via 'filterlist' on line 21  
+3.The output content is the number of slides and the window sequence to locate the sequence position  
+4.You can try it out through example.txt。
